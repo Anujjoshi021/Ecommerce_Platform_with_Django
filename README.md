@@ -1,4 +1,4 @@
-Ecommerce_Platform_with_Django-
+<h2>Ecommerce_Platform_with_Django-</h2>
 
 
 1. It is an Ecommerce platform developed using HTML, CSS, JS and Django.
